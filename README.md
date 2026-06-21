@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 PyGrades: Student Management System
+# 🎓 PyGrades: Grade Management System
 
 **A lightweight, object-oriented Python script for managing student report cards.**
 
@@ -42,7 +42,3 @@ Use the shortcut `Ctrl` + `Alt` + `T`.
 Download the code to your local machine.
 ```bash
 'git clone https://github.com/gayatori-san/unprof_pyai_1'
-
-
-
-
