@@ -22,7 +22,6 @@ class Student:
         else:
             for subject, grade in self.grades.items():
                 print(f"{subject}: {grade}")
-
         print(f"{'='*40}\n")
 
 
