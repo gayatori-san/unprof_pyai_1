@@ -3,7 +3,7 @@ class Student:
     def __init__(self, name, student_id):
         self.name = name
         self.student_id = student_id
-        self.grades = {}  # Empty dict to store subject: grade pairs
+        self.grades = {}  
 
     def add_grade(self, subject, grade):
         """Add or update a grade for a subject"""
@@ -25,13 +25,13 @@ class Student:
         print(f"{'='*40}\n")
 
 
-# How to USE it:
+# for using the code:
 student1 = Student("Gayu", "137")
 student1.add_grade("Math", 95)
 student1.add_grade("Python", 98)
 student1.add_grade("Physics", 88)
 student1.display_report_card()
 
-# Update a grade
+# for updating a grade:
 student1.add_grade("Physics", 92)
 student1.display_report_card()
