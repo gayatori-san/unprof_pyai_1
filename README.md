@@ -18,7 +18,6 @@
 * [Features](#✨-features)
 * [Local Installation](#⚙️-local-installation)
 * [How to Use It](#💻-how-to-use-it)
-* [Roadmap](#🗺️-roadmap)
 * [Contributing](#🤝-contributing)
 
 ---
@@ -40,7 +39,7 @@ This project serves as a clean, practical demonstration of **Object-Oriented Pro
 
 ## ⚙️ Local Installation
 
-Python 3 comes pre-installed on most Linux distributions. Follow these quick steps to get the script running on your local machine.
+Python 3 comes pre-installed on Ubuntu. Follow these quick steps to get the script running on your local machine.
 
 **1. Open your terminal**
 Use the shortcut `Ctrl` + `Alt` + `T`.
