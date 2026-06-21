@@ -5,9 +5,6 @@
 **A lightweight, object-oriented Python script for managing student report cards.**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Ubuntu Executable](https://img.shields.io/badge/Tested_on-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
-[![Terminal](https://img.shields.io/badge/CLI-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)](#)
-
 </div>
 
 ---
@@ -17,9 +14,6 @@
 * [About The Project](#💡-about-the-project)
 * [Features](#✨-features)
 * [Local Installation](#⚙️-local-installation)
-* [How to Use It](#💻-how-to-use-it)
-* [Contributing](#🤝-contributing)
-
 ---
 
 ## 💡 About The Project
@@ -47,4 +41,8 @@ Use the shortcut `Ctrl` + `Alt` + `T`.
 **2. Clone the repository**
 Download the code to your local machine.
 ```bash
-git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
+'git clone https://github.com/gayatori-san/unprof_pyai_1'
+
+
+
+
